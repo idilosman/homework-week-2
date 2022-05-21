@@ -7,3 +7,4 @@ I have included a project i previously submitted and a linked it to the page of 
 
 https://github.com/idilosman/homework-week-2
 
+https://idilosman.github.io/homework-week-2/
