@@ -7,4 +7,3 @@ I have included a project i previously submitted and a linked it to the page of 
 
 https://github.com/idilosman/homework-week-2
 
-http://127.0.0.1:5500/index.html
