@@ -181,29 +181,29 @@ button:hover{
 	align-items: center;
 	min-height: 400px;
 }
-.card{
-	height: 365px;
-	width: 335px;
-	padding: 20px 35px;
-	background: #191919;
-	border-radius: 20px;
-	margin: 15px;
-	position: relative;
-	overflow: hidden;
-	text-align: center;
-}
-.card{
-	height: 365px;
-	width: 335px;
-	padding: 20px 35px;
-	background: #191919;
-	border-radius: 20px;
-	margin: 15px;
-	position: relative;
-	overflow: hidden;
-	text-align: center;
-}
 
+.card{
+	height: 365px;
+	width: 335px;
+	padding: 20px 35px;
+	background: #191919;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.card{
+	height: 365px;
+	width: 335px;
+	padding: 20px 35px;
+	background: #191919;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}	
 .card i{
 	font-size: 50px;
 	display: block;
@@ -233,6 +233,7 @@ h5{
 	border-radius: 30px;
 	transition: .4s; 
 }
+
 .card .button:hover{
 	background-color: transparent;
 	border: 2px solid #f9004d;
